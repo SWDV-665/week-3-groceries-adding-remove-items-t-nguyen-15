@@ -1,2 +1,1 @@
-# week-3-groceries-adding-remove-items-t-nguyen-15
-week-3-groceries-adding-remove-items-t-nguyen-15 created by GitHub Classroom
+Unable to upload the node_modules folder because this is a very big file
